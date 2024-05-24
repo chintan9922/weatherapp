@@ -1,13 +1,16 @@
 # Getting Started with This Projecr
 
-This Project is created for learning purpose. In this project you can get the weather of your current location or you can search manually places to view the weather details of that place.
+This Project is created for learning purpose. In this project you can get the weather of your current location or you can search manually places to view the weather details of that place with display that place on map.
 
 ## API uses
 1. OpenWeather.
 2. geo-dp-cities.
    
 ## Demo Link of this Project
-https://master--weatherforecastapp22.netlify.app/
+
+
+### `npm install`
+If you to run this app on localhost use have to clone this and run `npm install` first for installing all dependencies.
 
 ### `npm start`
 
