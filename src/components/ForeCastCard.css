@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 1rem;
+    max-width: 100%;
+    overflow-y: hidden;
+    flex-wrap: nowrap;
+    padding-top: 2rem;
+}
